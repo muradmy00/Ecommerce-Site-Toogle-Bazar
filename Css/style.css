@@ -1,0 +1,202 @@
+*{
+     font-family: 'Poppins' , sans-serif;
+     margin: 0;
+}
+
+.navbar{
+    background-color: #ececec !important;
+}
+
+.navbar ul li{
+    font-size: 12px;
+    padding: 0 17px;
+}
+
+.search_ber{
+
+    background-color: #f5f5f5;
+    padding: 13px 19px;
+    border: none;
+    outline: none;
+    width: 50%;
+    margin-left: 20px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.search_container button{
+
+    outline: none;
+    border: none;
+    color: #fff;
+    background-color: #f57724;
+    margin-left: -5px;
+    height: 48px;
+    width: 50px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+
+
+.top_banner{
+    background-color: #f7f7f7;
+    
+}
+
+.carousel-inner img{
+    filter: brightness(7 0%);
+}
+
+.card_title{
+
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.card_body:hover{
+    background-color: #d7d0d0;
+}
+
+.price{
+    color: #f57724;
+    font-size: 18px;
+}
+
+.discount{
+    font-size: 12px;
+}
+
+
+.product img,
+.mall img{
+    height: 200px;
+}
+
+footer{
+    background-color: rgb(66, 66, 157);
+    width: 100%;
+    height: 100%;
+}
+
+footer .qrcodes{
+    height: 100px;
+    border-radius: 10px;
+}
+
+footer .appstore{
+    width:25%;
+    cursor: pointer;
+
+}
+
+footer .store{
+    width: 25%;
+    cursor: pointer;
+}
+
+footer .first{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 30px;
+    align-items: center;
+    padding: 10px;
+    flex-wrap: wrap;
+}
+
+footer .first a{
+    color: #fff;
+    text-decoration: none;
+   
+}
+
+footer .first h4{
+    color: #fff;
+    font-weight: 800;
+}
+
+footer .second {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 30px;
+    padding: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+footer .second a {
+    color: #fff;
+    text-decoration: none;
+
+}
+
+footer .second h4 {
+    color: #fff;
+    font-weight: 800;
+}
+
+footer .third {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 30px;
+    padding: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+footer .third a {
+    color: #fff;
+    text-decoration: none;
+
+}
+
+footer .third h4 {
+    color: #fff;
+    font-weight: 800;
+}
+
+footer .four {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 30px;
+    padding: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+footer .five {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+
+
+
+
+
+  @media (max-width:344px) {
+
+
+     
+ }
+
+  @media (max-width:760px) {
+
+      
+  }
+
+  @media (min-width:1200px) {
+
+      
+  }
